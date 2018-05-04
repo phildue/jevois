@@ -39,7 +39,7 @@
 #define JEVOIS_GADGET_DEFAULT "/dev/video1"
 
 //! On platform hardware, device for the 4-pin hardware serial port
-#define JEVOIS_SERIAL_DEFAULT "/dev/ttyS0"
+#define JEVOIS_SERIAL_DEFAULT ""
 
 //! On platform hardware, device for serial-over-USB port
 #define JEVOIS_USBSERIAL_DEFAULT "/dev/ttyGS0"
